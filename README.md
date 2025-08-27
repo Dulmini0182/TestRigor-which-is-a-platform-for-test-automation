@@ -74,6 +74,4 @@ Start writing test cases in plain English.
 
 Run, analyze results, and integrate into your CI/CD pipeline.
 
-Start writing test cases in plain English.
 
-Run, analyze results, and integrate into your CI/CD pipeline.
